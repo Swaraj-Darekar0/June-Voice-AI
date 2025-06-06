@@ -1,11 +1,11 @@
 
 
 
-# 🎙️ Julie – Voice-Driven AI Assistant (Gemini + Kokoro TTS)
+# 🎙️ June – Voice-Driven AI Assistant (Gemini + Kokoro TTS)
 
-Julie is an expressive voice-based assistant that listens to what you say, understands it using Whisper, thinks using Gemini (LLM), and speaks back using Kokoro TTS — with emotional tone detection and voice switching.
+June is an expressive voice-based assistant that listens to what you say, understands it using Whisper, thinks using Gemini (LLM), and speaks back using Kokoro TTS — with emotional tone detection and voice switching.
 
-Whether you're asking a factual question, telling a suspense story, or getting flirty, Julie responds accordingly with different personalities and voices.
+Whether you're asking a factual question, telling a suspense story, or getting flirty, June responds accordingly with different personalities and voices.
 
 📹 **Demo Video:**
 
@@ -27,7 +27,7 @@ This project integrates:
 
 - 🎙️ Record your voice and transcribe it to text with `faster-whisper`
 - 🧠 Get intelligent, concise replies from Google Gemini
-- 🗣️ Hear Julie speak back using Kokoro TTS with emotion-aware voices
+- 🗣️ Hear June speak back using Kokoro TTS with emotion-aware voices
 - 😏 Detect flirtatious or inappropriate prompts and reply in **Andrew Tate style**
 - 🎬 Switch to cinematic/suspense voice when dramatic tones are detected
 - 👩 Default warm assistant voice (af_bella)
@@ -131,4 +131,3 @@ Actively looking for internships in AI, conversational agents, and voice tech.
 Feel free to fork, star, or reach out!
 
 ---
-
