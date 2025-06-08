@@ -14,7 +14,7 @@ import colorama
 from colorama import Fore, Style
 
 # Gemini setup
-client = genai.Client(api_key="AIzaSyB44hDksXOcKpUmrr0FlxG0XPxlWSBSnms")
+client = genai.Client(api_key="<YOUR-API-KEY>")
 
 # Constants
 T_API_URL = "http://localhost:8000/transcribe"
